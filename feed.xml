@@ -3,12 +3,32 @@
     <title>Sống Lành</title>
     <link href="https://songlanh.on-fleek.app/feed.xml" rel="self" />
     <link href="https://songlanh.on-fleek.app" />
-    <updated>2024-10-11T10:35:26+07:00</updated>
+    <updated>2024-10-11T10:38:26+07:00</updated>
     <author>
         <name>Travis Le</name>
     </author>
     <id>https://songlanh.on-fleek.app</id>
 
+    <entry>
+        <title>Cách ngâm rượu mơ Umeshu</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://songlanh.on-fleek.app/cach-ngam-ruou-mo-umeshu/"/>
+        <id>https://songlanh.on-fleek.app/cach-ngam-ruou-mo-umeshu/</id>
+        <media:content url="https://songlanh.on-fleek.app/media/posts/9/mo1.jpg" medium="image" />
+            <category term="Videos"/>
+            <category term="Hướng dẫn"/>
+
+        <updated>2024-10-11T10:38:26+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://songlanh.on-fleek.app/media/posts/9/mo1.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="694" height="389" style="width: 694px; height: 389px;" src="https://www.youtube-nocookie.com/embed/bQh9S_LTVs4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Người trẻ chữa lành tinh thần bằng &#x27;tắm rừng&#x27;</title>
         <author>

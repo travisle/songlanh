@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Sống Lành</title>
-    <link href="https://info.songlanh.com/feed.xml" rel="self" />
-    <link href="https://info.songlanh.com" />
+    <link href="http://info.songlanh.com/feed.xml" rel="self" />
+    <link href="http://info.songlanh.com" />
     <updated>2024-10-11T11:00:14+07:00</updated>
     <author>
         <name>Travis Le</name>
     </author>
-    <id>https://info.songlanh.com</id>
+    <id>http://info.songlanh.com</id>
 
     <entry>
         <title>Cách ngâm rượu mơ Umeshu</title>
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/cach-ngam-ruou-mo-umeshu/"/>
-        <id>https://info.songlanh.com/cach-ngam-ruou-mo-umeshu/</id>
-        <media:content url="https://info.songlanh.com/media/posts/9/mo1.jpg" medium="image" />
+        <link href="http://info.songlanh.com/cach-ngam-ruou-mo-umeshu/"/>
+        <id>http://info.songlanh.com/cach-ngam-ruou-mo-umeshu/</id>
+        <media:content url="http://info.songlanh.com/media/posts/9/mo1.jpg" medium="image" />
             <category term="Videos"/>
             <category term="Hướng dẫn"/>
 
@@ -24,7 +24,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://info.songlanh.com/media/posts/9/mo1.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="http://info.songlanh.com/media/posts/9/mo1.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="694" height="389" style="width: 694px; height: 389px;" src="https://www.youtube-nocookie.com/embed/bQh9S_LTVs4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -34,21 +34,21 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/nguoi-tre-chua-lanh-tinh-than-bang-tam-rung-2/"/>
-        <id>https://info.songlanh.com/nguoi-tre-chua-lanh-tinh-than-bang-tam-rung-2/</id>
-        <media:content url="https://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" medium="image" />
+        <link href="http://info.songlanh.com/nguoi-tre-chua-lanh-tinh-than-bang-tam-rung-2/"/>
+        <id>http://info.songlanh.com/nguoi-tre-chua-lanh-tinh-than-bang-tam-rung-2/</id>
+        <media:content url="http://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" medium="image" />
             <category term="Tin tức"/>
 
         <updated>2024-10-11T10:34:33+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" alt="" />
+                        <img src="http://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" alt="" />
                     Do áp lực cuộc sống hoặc gặp những biến cố gây rối loạn lo âu, nhiều người trẻ tìm về với thiên nhiên, đi "tắm rừng" để an dưỡng tinh thần. Gặp bế tắc trong công việc, Thúy Trinh, 30 tuổi, ở Kon Tum, tìm&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="http://info.songlanh.com/media/posts/8/ta-m-ru-ng-1-9697-1724886650-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Do áp lực cuộc sống hoặc gặp những biến cố gây rối loạn lo âu, nhiều người trẻ tìm về với thiên nhiên, đi "tắm rừng" để an dưỡng tinh thần.</p>
 <article>
 <p>Gặp bế tắc trong công việc, Thúy Trinh, 30 tuổi, ở Kon Tum, tìm đến một tour "tắm rừng" ở địa phương, với giá 400.000 đồng, mong có thời gian tĩnh lặng để ngẫm hiểu về bản thân.</p>
@@ -99,21 +99,21 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/viet-nam-co-loai-hat-quy-nhu-vang-cuc-giau-dinh-duong-lai-dang-bi-lang-quen/"/>
-        <id>https://info.songlanh.com/viet-nam-co-loai-hat-quy-nhu-vang-cuc-giau-dinh-duong-lai-dang-bi-lang-quen/</id>
-        <media:content url="https://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" medium="image" />
+        <link href="http://info.songlanh.com/viet-nam-co-loai-hat-quy-nhu-vang-cuc-giau-dinh-duong-lai-dang-bi-lang-quen/"/>
+        <id>http://info.songlanh.com/viet-nam-co-loai-hat-quy-nhu-vang-cuc-giau-dinh-duong-lai-dang-bi-lang-quen/</id>
+        <media:content url="http://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" medium="image" />
             <category term="Thực phẩm tốt"/>
 
         <updated>2024-10-11T10:04:14+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" alt="" />
+                        <img src="http://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" alt="" />
                     Hạt kê, loại ngũ cốc nhỏ bé, không chỉ mang đến hương vị thơm ngon mà còn ẩn chứa nguồn dinh dưỡng dồi dào với nhiều lợi ích tuyệt vời cho sức khỏe. Dưới đây là những lợi ích bất ngờ của hạt kê không&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="http://info.songlanh.com/media/posts/6/tacdungcuahatke2-1728460752530-1728460752614434246319.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="news-sapo" data-role="sapo" data-field="sapo">Hạt kê, loại ngũ cốc nhỏ bé, không chỉ mang đến hương vị thơm ngon mà còn ẩn chứa nguồn dinh dưỡng dồi dào với nhiều lợi ích tuyệt vời cho sức khỏe. Dưới đây là những lợi ích bất ngờ của hạt kê không phải ai cũng biết.</h3>
 <h3>Nguồn năng lượng dồi dào, tốt cho tiêu hóa</h3>
 <p>Hạt kê là một nguồn cung cấp carbohydrate dồi dào, đóng vai trò quan trọng trong việc cung cấp năng lượng cho các hoạt động hàng ngày của cơ thể. Bên cạnh đó, hạt kê còn chứa hàm lượng chất xơ đáng kể, bao gồm cả chất xơ hòa tan và không hòa tan.</p>
@@ -152,21 +152,21 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/nen-ngu-trua-bao-nhieu-phut/"/>
-        <id>https://info.songlanh.com/nen-ngu-trua-bao-nhieu-phut/</id>
-        <media:content url="https://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" medium="image" />
+        <link href="http://info.songlanh.com/nen-ngu-trua-bao-nhieu-phut/"/>
+        <id>http://info.songlanh.com/nen-ngu-trua-bao-nhieu-phut/</id>
+        <media:content url="http://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" medium="image" />
             <category term="Mẹo"/>
 
         <updated>2024-10-11T09:55:03+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" alt="" />
+                        <img src="http://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" alt="" />
                     Ngủ trưa có thể mang lại nhiều lợi ích cho sức khoẻ, vậy cần ngủ trưa bao nhiêu phút để đủ tỉnh táo tiếp tục lao động và học tập? Theo bài viết của bác sĩ Nguyễn Ngọc Định, khoa Khám bệnh, Bệnh viện Y&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="http://info.songlanh.com/media/posts/5/45697dff-619e-4910-97e7-62e77f2dc28c._SL480_.jpg" class="type:primaryImage" alt="" /></p>
                 <h3 data-role="sapo" data-field="sapo">Ngủ trưa có thể mang lại nhiều lợi ích cho sức khoẻ, vậy cần ngủ trưa bao nhiêu phút để đủ tỉnh táo tiếp tục lao động và học tập?</h3>
 <p>Theo bài viết của bác sĩ Nguyễn Ngọc Định, khoa Khám bệnh, Bệnh viện Y học cổ truyền Trung ương trên báo Sức khoẻ và Đời sống, nhiều người thường bỏ qua giấc ngủ trưa vì cho rằng không cần thiết. Tuy nhiên một giấc ngủ trưa có thể mang lại nhiều lợi ích cho bạn.</p>
 <p>Theo nhịp sinh học, năng lượng của chúng ta thường giảm xuống tự nhiên trong khoảng thời gian từ 13 đến 15 giờ hàng ngày. Thời điểm này, năng lượng giảm làm bạn sẽ dễ cảm thấy buồn ngủ hoặc ngủ gà ngủ gật nếu không được ngủ trưa. Nhưng ngủ trưa quá lâu, cơ thể cũng sẽ bị ảnh hưởng không tốt. Giấc ngủ trưa kéo dài có thể gây gián đoạn nhịp sinh học và khiến bạn bị ảnh hưởng giấc ngủ vào buổi tối.</p>
@@ -192,9 +192,9 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/mat-ong-ngam-toi/"/>
-        <id>https://info.songlanh.com/mat-ong-ngam-toi/</id>
-        <media:content url="https://info.songlanh.com/media/posts/4/4-tac-dung-khong-ngo-toi-cua-toi-ngam-mat-ong-doi-voi-suc-khoe-202207051312108809.jpg" medium="image" />
+        <link href="http://info.songlanh.com/mat-ong-ngam-toi/"/>
+        <id>http://info.songlanh.com/mat-ong-ngam-toi/</id>
+        <media:content url="http://info.songlanh.com/media/posts/4/4-tac-dung-khong-ngo-toi-cua-toi-ngam-mat-ong-doi-voi-suc-khoe-202207051312108809.jpg" medium="image" />
             <category term="Thực phẩm tốt"/>
             <category term="Hướng dẫn"/>
 
@@ -207,9 +207,9 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://info.songlanh.com/first-post/"/>
-        <id>https://info.songlanh.com/first-post/</id>
-        <media:content url="https://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" medium="image" />
+        <link href="http://info.songlanh.com/first-post/"/>
+        <id>http://info.songlanh.com/first-post/</id>
+        <media:content url="http://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" medium="image" />
             <category term="Thực phẩm tốt"/>
             <category term="Mẹo"/>
             <category term="Hướng dẫn"/>
@@ -217,13 +217,13 @@
         <updated>2024-10-11T09:08:55+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" alt="" />
+                        <img src="http://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" alt="" />
                     Đậu bắp, còn được gọi với nhiều tên khác như mướp tây, bông vàng hay bắp chà, có nguồn gốc từ khu vực Tây Phi. Nhờ khả năng chịu nhiệt và khô hạn tốt, loại cây này được trồng phổ biến tại các vùng ôn&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="http://info.songlanh.com/media/posts/1/bap-1649954219742733154580.webp" class="type:primaryImage" alt="" /></p>
                 <p>Đậu bắp, còn được gọi với nhiều tên khác như mướp tây, bông vàng hay bắp chà, có nguồn gốc từ khu vực Tây Phi. Nhờ khả năng chịu nhiệt và khô hạn tốt, loại cây này được trồng phổ biến tại các vùng ôn đới và nhiệt đới. Khi du nhập vào Việt Nam, đậu bắp được trồng chủ yếu tại các tỉnh miền Nam, nơi có khí hậu nóng ẩm.</p>
 <p>Việc chế biến nước đậu bắp khá đơn giản và không đòi hỏi thiết bị phức tạp:</p>
 <ul>

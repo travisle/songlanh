@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sống Lành",
+    "description": "",
+    "home_page_url": "https://songlanh.on-fleek.app",
+    "feed_url": "https://songlanh.on-fleek.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Travis Le"
+    },
+    "items": [
+        {
+            "id": "https://songlanh.on-fleek.app/first-post.html",
+            "url": "https://songlanh.on-fleek.app/first-post.html",
+            "title": "First post",
+            "author": {
+                "name": "Travis Le"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-11T09:08:55+07:00",
+            "date_modified": "2024-10-11T09:08:55+07:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sống Lành</title>
+    <link href="https://songlanh.on-fleek.app/feed.xml" rel="self" />
+    <link href="https://songlanh.on-fleek.app" />
+    <updated>2024-10-11T09:08:55+07:00</updated>
+    <author>
+        <name>Travis Le</name>
+    </author>
+    <id>https://songlanh.on-fleek.app</id>
+
+    <entry>
+        <title>First post</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://songlanh.on-fleek.app/first-post.html"/>
+        <id>https://songlanh.on-fleek.app/first-post.html</id>
+
+        <updated>2024-10-11T09:08:55+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

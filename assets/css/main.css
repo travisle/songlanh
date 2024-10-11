@@ -1580,11 +1580,11 @@ textarea {
 .search__input {
   background-color: var(--lighter);
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   font-size: 0.7724761953rem;
-  padding: 0.3642857143rem 0.4285714286rem 0.3642857143rem 0.2142857143rem;
+  padding: 0.3642857143rem 2.4285714286rem 0.3642857143rem 1.2142857143rem;
   position: relative;
-  min-width: 8rem;
+  min-width: 15rem;
 }
 .search__input:focus {
   background-color: var(--light);
